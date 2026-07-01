@@ -96,15 +96,8 @@ streamlit run app.py
 ```
 The app will open at `http://localhost:8501`.
 
-## 🎯 Results & Screenshots
-*(Add your Streamlit app screenshots here after running it locally / deploying it)*
-
-## 🚀 Live Deployment
-*(Add your live Streamlit Cloud URL here once deployed)*
-
-## 🎥 Demo Video
-*(Add your demo video link here — should cover: dataset overview, preprocessing, training, evaluation metrics, and live demo)*
-
+ 
+ 
 ## 👤 Author
 Submitted as part of the **AlgoHub Software House Machine Learning Internship Program** — Week 1: House Price Prediction System.
 
